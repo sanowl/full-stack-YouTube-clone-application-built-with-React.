@@ -9,3 +9,5 @@ Creating a YouTube application is easy with these simple steps:
 3. **Once the installation is complete, run the command `npm start` to start the application.**
 
 You should now see the application running in your browser on http://localhost:3000.
+
+ use the YouTube API, you'll need to create your own API key
