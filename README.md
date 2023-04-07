@@ -1,6 +1,6 @@
 # Getting Started with Create YouTube Application
 
-Creating a YouTube application is easy with these simple steps:
+Creating a YouTube application with these simple steps:
 
 1. **Open your terminal and navigate to the root directory of your project.**
 
